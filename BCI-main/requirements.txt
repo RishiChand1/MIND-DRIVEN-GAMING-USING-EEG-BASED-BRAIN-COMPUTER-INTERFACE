@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+pyserial
+pyautogui
+scikit-learn
+opencv-python
+
+
